@@ -22,6 +22,10 @@ let add7 = solution(7);
 console.log(add7(2));
 console.log(add7(3));
 
+let add3 = solution(7);
+console.log(add3(3));
+console.log(add3(3));
+
 // Examples
 // Input 
 // let add5 = solution(5);
@@ -41,3 +45,11 @@ console.log(add7(3));
 // 9
 // 10
 
+// Input
+// let add3 = solution(7);
+// console.log(add3(3));
+// console.log(add3(3));
+
+// Output
+// 10
+// 10
